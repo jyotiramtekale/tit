@@ -1,7 +1,7 @@
 
-echo -e " `date` "
-echo -e " `hostname` "
-echo -e " `hotname -I` "
+echo  " `date` "
+echo  " `hostname` "
+echo  " `ifconfig ` "
 
 
 
