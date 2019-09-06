@@ -1,1 +1,1 @@
-echo " check remove "
+merge neeed to checked 
