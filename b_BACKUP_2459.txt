@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-merge neeed to checked 
-=======
-this need to check merge conflict 
->>>>>>> b1
